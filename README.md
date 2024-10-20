@@ -22,6 +22,7 @@
 </br>
 <p>I am currently developing a monitoring system similar to Zabbix. It is called <b>Astra Monitoring</b>. I am open to cooperation proposals. I can write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
 
+<!--
 <h2 align="center">💻 Tech Stack</h1>
 
 <div align="center">
@@ -39,3 +40,5 @@
 <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"> 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"> 
 </div>
+
+-->
