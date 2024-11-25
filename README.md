@@ -22,6 +22,22 @@
 </br>
 <p>I am currently developing a monitoring system similar to Zabbix. It is called <b>Astra Monitoring</b>. I am open to cooperation proposals. I can write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
 
+
+<h3>Open source libraries</h3>
+<ul>
+    <li><a href="https://github.com/maxbolgarin/gitbasher">gitbasher</a> — must-use CLI utility to help with git workflow</li>
+    <li><a href="https://github.com/maxbolgarin/contem">contem</a> — drop-in context.Context replacement for graceful shutdown</li>
+    <li><a href="https://github.com/maxbolgarin/errm">errm</a> — errors with structural fields (like in slog) and optional stack trace</li>
+    <li><a href="https://github.com/maxbolgarin/logze">logze</a> — zerolog based logger with user-friendly interface</li>
+    <li><a href="https://github.com/maxbolgarin/datetime">datetime</a> — UX friendly Date without time and Time without date</li>
+    <li><a href="https://github.com/maxbolgarin/gorder">gorder</a> — in-memory task queue with strict ordering for async operations</li>
+    <li><a href="https://github.com/maxbolgarin/lang">lang</a> — generic one-liners to work with variables, slices and maps</li>
+    <li><a href="https://github.com/maxbolgarin/abstract">abstract</a> — most useful data structures to get rid of boilerplate in business code</li>
+    <li><a href="https://github.com/maxbolgarin/cliex">cliex</a> — WIP</li>
+    <li><a href="https://github.com/maxbolgarin/servex">servex</a> — WIP</li>
+    <li><a href="https://github.com/maxbolgarin/bote">bote</a> — WIP</li>
+</ul>
+
 <!--
 <h2 align="center">💻 Tech Stack</h1>
 
