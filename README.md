@@ -29,10 +29,10 @@
     <li><a href="https://github.com/maxbolgarin/mongox">mongox</a> — MongoDB interface without boilerplate for fast and effective development</li>
     <li><a href="https://github.com/maxbolgarin/cliex">cliex</a> — easy-to-use HTTP client with circuit breaker based on <a href="https://github.com/go-resty/resty">resty</a></li>
     <li><a href="https://github.com/maxbolgarin/contem">contem</a> — drop-in context.Context replacement for graceful shutdown</li>
-    <li><a href="https://github.com/maxbolgarin/errm">errm</a> — errors with structural fields (like in slog) and optional stack trace</li>
+    <li><a href="https://github.com/maxbolgarin/logze">logze</a> — structural logging with <a href="https://github.com/rs/zerolog">zerolog</a> efficiency and <a href="https://pkg.go.dev/golang.org/x/exp/slog">slog</a> interface</li>
+    <li><a href="https://github.com/maxbolgarin/errm">errm</a> — errors with structural fields (like in slog) and stack trace</li>
     <li><a href="https://github.com/maxbolgarin/abstract">abstract</a> — most useful data structures to get rid of boilerplate in business code</li>
     <li><a href="https://github.com/maxbolgarin/lang">lang</a> — generic one-liners to work with variables, slices and maps</li>
-    <li><a href="https://github.com/maxbolgarin/logze">logze</a> — <a href="https://github.com/rs/zerolog">zerolog</a> based logger with slog-like interface</li>
     <li><a href="https://github.com/maxbolgarin/gorder">gorder</a> — in-memory task queue with strict ordering for async operations</li>
     <li><a href="https://github.com/maxbolgarin/datetime">datetime</a> — UX friendly Date without time and Time without date</li>
     <li><a href="https://github.com/maxbolgarin/servex">servex</a> — WIP</li>
