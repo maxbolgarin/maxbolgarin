@@ -1,5 +1,5 @@
 <h1 align="center">Max Bolgarin</h1> 
-<h3 align="center">Senior Go Backend Developer | Tech Lead in Astra Monitoring</h3>
+<h3 align="center">Senior Go Backend Developer</h3>
 
 <div align="center">
 <a href="https://instagram.com/maxbolgarin">
@@ -20,7 +20,7 @@
 </div>
 
 </br>
-<p>I am currently developing a monitoring system similar to Zabbix. It is called <b>Astra Monitoring</b>. I am open to cooperation proposals. I can write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
+<p>I am open to cooperation proposals. Here is my <a href="https://drive.google.com/file/d/19JBHG7b8Qy5BW52DMg5ne02GSKoGgKXD/view?usp=sharing">resume</a>. I can write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
 
 
 <h3>Open source libraries</h3>
