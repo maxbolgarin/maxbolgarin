@@ -25,18 +25,18 @@
 
 <h3>Open source libraries</h3>
 <ul>
-    <li><a href="https://github.com/maxbolgarin/gitbasher">gitbasher</a> — must-use CLI utility to help with git workflow</li>
-    <li><a href="https://github.com/maxbolgarin/mongox">mongox</a> — MongoDB interface without boilerplate for fast and effective development</li>
-    <li><a href="https://github.com/maxbolgarin/cliex">cliex</a> — easy-to-use HTTP client with circuit breaker based on <a href="https://github.com/go-resty/resty">resty</a></li>
-    <li><a href="https://github.com/maxbolgarin/contem">contem</a> — drop-in context.Context replacement for graceful shutdown</li>
-    <li><a href="https://github.com/maxbolgarin/logze">logze</a> — structural logging with <a href="https://github.com/rs/zerolog">zerolog</a> efficiency and <a href="https://pkg.go.dev/golang.org/x/exp/slog">slog</a> interface</li>
-    <li><a href="https://github.com/maxbolgarin/errm">errm</a> — errors with structural fields (like in slog) and stack trace</li>
-    <li><a href="https://github.com/maxbolgarin/abstract">abstract</a> — most useful data structures to get rid of boilerplate in business code</li>
-    <li><a href="https://github.com/maxbolgarin/lang">lang</a> — generic one-liners to work with variables, slices and maps</li>
-    <li><a href="https://github.com/maxbolgarin/gorder">gorder</a> — in-memory task queue with strict ordering for async operations</li>
+    <li><a href="https://github.com/maxbolgarin/gitbasher">gitbasher</a> — Must-use CLI utility to help with git workflow</li>
+    <li><a href="https://github.com/maxbolgarin/mongox">mongox</a> — MongoDB without boilerplate for fast and effective development</li>
+    <li><a href="https://github.com/maxbolgarin/servex">servex</a> — Web framework experience in lightweight net/http server</li>
+    <li><a href="https://github.com/maxbolgarin/cliex">cliex</a> — Minimalistic HTTP client with circuit breaker based on <a href="https://github.com/go-resty/resty">resty</a></li>
+    <li><a href="https://github.com/maxbolgarin/bote">bote</a> — Easy-to-build interactive Telegram bots with <a href="https://github.com/tucnak/telebot">telebot</a></li>
+    <li><a href="https://github.com/maxbolgarin/contem">contem</a> — Drop-in context.Context replacement for graceful shutdown</li>
+    <li><a href="https://github.com/maxbolgarin/logze">logze</a> — Structural logging with <a href="https://github.com/rs/zerolog">zerolog</a> efficiency and <a href="https://pkg.go.dev/golang.org/x/exp/slog">slog</a> interface</li>
+    <li><a href="https://github.com/maxbolgarin/errm">errm</a> — Errors with structural fields (like in slog) and stack trace</li>
+    <li><a href="https://github.com/maxbolgarin/abstract">abstract</a> — Most useful data structures to get rid of boilerplate in business code</li>
+    <li><a href="https://github.com/maxbolgarin/lang">lang</a> — Generic one-liners to work with variables, slices and maps</li>
+    <li><a href="https://github.com/maxbolgarin/gorder">gorder</a> — In-memory task queue with strict ordering for async operations</li>
     <li><a href="https://github.com/maxbolgarin/datetime">datetime</a> — UX friendly Date without time and Time without date</li>
-    <li><a href="https://github.com/maxbolgarin/servex">servex</a> — WIP</li>
-    <li><a href="https://github.com/maxbolgarin/bote">bote</a> — WIP</li>
 </ul>
 
 
