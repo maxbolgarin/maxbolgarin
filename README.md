@@ -2,25 +2,16 @@
 <h3 align="center">Senior Go Backend Developer</h3>
 
 <div align="center">
-<a href="https://instagram.com/maxbolgarin">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-</a>
 <a href="https://linkedin.com/in/maxbolgarin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://medium.com/@mxbolgarin">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
-</a>
-<a href="https://stackoverflow.com/users/16748093">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-</a>
-<a href="https://x.com/mxbolgarin">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+<a href="https://t.me/maxbolgarin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG">
 </a>
 </div>
 
 </br>
-<p>I am open to cooperation proposals. Here is my <a href="https://drive.google.com/file/d/19JBHG7b8Qy5BW52DMg5ne02GSKoGgKXD/view?usp=sharing">resume</a>. I can write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
+<p>I am open to cooperation proposals. Here is my <a href="https://drive.google.com/file/d/19JBHG7b8Qy5BW52DMg5ne02GSKoGgKXD/view?usp=sharing">resume</a>. I write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
 
 
 <h3>Open source libraries</h3>
