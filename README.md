@@ -11,7 +11,7 @@
 </div>
 
 </br>
-<p>I am open to cooperation proposals. Here is my <a href="https://drive.google.com/file/d/19JBHG7b8Qy5BW52DMg5ne02GSKoGgKXD/view?usp=sharing">resume</a>. I write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
+<p>I am open to cooperation proposals. Here is my <a href="https://drive.google.com/file/d/1uWdgZ4JzwLxh3ef88K0ZAch7RmPG1NW-/view?usp=sharing">resume</a>. I write excellent code in Go and design IT infrastructure. You can write to me in <a href="https://t.me/maxbolgarin">telegram</a>, I will answer everyone.</p>
 
 
 <h3>Open source libraries</h3>
