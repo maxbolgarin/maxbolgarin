@@ -25,8 +25,8 @@ These are the projects I'm most proud of.
 
 | Project                                                              | Description                                                               |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ⭐ **[gitbasher](https://github.com/maxbolgarin/gitbasher)**          | A must-use CLI utility designed to supercharge your Git workflow         |
-| ⭐ **[servex](https://github.com/maxbolgarin/servex)**                | A "Swiss army knife" HTTP server library for Go (compatible with net/http) |
+| ⭐ **[gitbasher](https://github.com/maxbolgarin/gitbasher)**          | Must-use CLI utility designed to supercharge your Git workflow         |
+| ⭐ **[servex](https://github.com/maxbolgarin/servex)**                | HTTPS Go server / API gateway for Vibe Coding (compatible with net/http) |
 | ⭐ **[mongox](https://github.com/maxbolgarin/mongox)**                | MongoDB in Go without boilerplate for fast and effective development |
 | ⭐ **[bote](https://github.com/maxbolgarin/bote)**                    | Easy-to-build interactive Telegram bots in Go with [telebot](https://github.com/tucnak/telebot) |
 
