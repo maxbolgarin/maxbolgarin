@@ -12,7 +12,7 @@
   <a href="https://t.me/maxbolgarin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://drive.google.com/file/d/1uWdgZ4JzwLxh3ef88K0ZAch7RmPG1NW-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1zcggzcQZpeMI5NQJYL1MJ2LwJJR8KGhr/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
