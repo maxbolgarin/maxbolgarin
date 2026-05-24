@@ -1,46 +1,69 @@
 <h1 align="center">Hi there, I'm Max Bolgarin 👋</h1>
-<h3 align="center">Senior Backend Developer and IT-architect</h3>
+<h3 align="center">Senior Backend Developer & IT Architect</h3>
 
 <p align="center">
-  I specialize in building efficient, scalable backend systems and crafting elegant open-source libraries in Go. I love designing robust IT infrastructure and solving complex engineering challenges. 
+  I build high-load systems and ship open-source tools and libraries
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/max-bolgarin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/maxbolgarin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://maxbolgarin.com/cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
-  </a>
+  <a href="https://www.linkedin.com/in/max-bolgarin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/maxbolgarin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://maxbolgarin.com"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Website"></a>
+  <a href="https://maxbolgarin.com/cv.pdf"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
 
-### 🚀 My Featured Projects
+## 🚀 Open-source projects
 
-These are the projects I'm most proud of.
+### ⭐ [unread](https://github.com/maxbolgarin/unread) — read your unread, without reading it
 
-| Project                                                              | Description                                                               |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ⭐ **[gitbasher](https://github.com/maxbolgarin/gitbasher)**          | Must-use CLI utility designed to supercharge your Git workflow           |
-| ⭐ **[bote](https://github.com/maxbolgarin/bote)**                | Easy-to-build interactive Telegram bots in Go with [telebot](https://github.com/tucnak/telebot) |
-| ⭐ **[erro](https://github.com/maxbolgarin/erro)**                    | Next level error handling in Go for making high-observability apps              |
-| ⭐ **[servex](https://github.com/maxbolgarin/servex)**                | HTTPS Go server / API gateway with a lot of built-in features (compatible with net/http) |
-| ⭐ **[mongox](https://github.com/maxbolgarin/mongox)**                | MongoDB in Go without boilerplate for fast and effective development |
+<p>
+  <a href="https://pypi.org/project/unread/"><img src="https://img.shields.io/pypi/v/unread?color=3b82f6" alt="PyPI"></a>
+  <a href="https://github.com/maxbolgarin/unread/stargazers"><img src="https://img.shields.io/github/stars/maxbolgarin/unread?color=3b82f6" alt="Stars"></a>
+  <img src="https://img.shields.io/pypi/pyversions/unread?color=3b82f6" alt="Python">
+  <img src="https://img.shields.io/github/license/maxbolgarin/unread?color=3b82f6" alt="License">
+</p>
 
-<br>
+Your Telegram channels YouTube 'watch later' pile up faster than you can check them. `unread` pulls it
+into a single digest you can actually act on — and unlike other summarizers, every
+line links back to the exact source it came from. Trust the summary,
+then dig into the original when it matters.
 
-### 📦 More Open Source Libraries
+```bash
+pip install unread
+```
 
-Here are some other tools I've built to solve common development problems.
+### [gitbasher](https://github.com/maxbolgarin/gitbasher) — supercharge your Git workflow
 
--   **[contem](https://github.com/maxbolgarin/contem)** — Drop-in `context.Context` replacement for application graceful shutdown
--   **[logze](https://github.com/maxbolgarin/logze)** — Structural logging with [zerolog](https://github.com/rs/zerolog) efficiency and [slog](https://pkg.go.dev/golang.org/x/exp/slog) interface
--   **[abstract](https://github.com/maxbolgarin/abstract)** — Useful data structures to get rid of boilerplate in business code
--   **[lang](https://github.com/maxbolgarin/lang)** — Generic one-liners to work with variables, slices, and maps
--   **[cliex](https://github.com/maxbolgarin/cliex)** — Minimalistic HTTP client with circuit breaker based on [resty](https://github.com/go-resty/resty)
--   **[gorder](https://github.com/maxbolgarin/gorder)** — In-memory task queue with strict ordering for async operations
--   **[datetime](https://github.com/maxbolgarin/datetime)** — UX-friendly `Date` without time and `Time` without date
+An interactive CLI that makes everyday git — commits, branches, pushes — faster and
+harder to get wrong. Guided actions instead of memorizing flags.
+
+### [ScanOrbit](https://github.com/maxbolgarin/scanorbit) — agentless AWS scanning
+
+Security, cost and GDPR findings from a read-only role in minutes. Open source, with a hosted version at
+**[scanorbit.cloud](https://scanorbit.cloud)**.
+
+## 📦 Open-source Go libraries
+
+The building blocks behind the projects above — each one solves a single problem cleanly.
+
+- [**servex**](https://github.com/maxbolgarin/servex) — HTTPS Go server / API gateway with batteries included (`net/http` compatible)
+- [**mongox**](https://github.com/maxbolgarin/mongox) — MongoDB in Go without the boilerplate
+- [**bote**](https://github.com/maxbolgarin/bote) — easy-to-build interactive Telegram bots in Go (built on telebot)
+- [**erro**](https://github.com/maxbolgarin/erro) — next-level error handling in Go for high-observability apps
+- [**contem**](https://github.com/maxbolgarin/contem) — drop-in `context.Context` replacement for graceful shutdown
+- [**logze**](https://github.com/maxbolgarin/logze) — structural logging with `zerolog` efficiency and the `slog` interface
+- [**abstract**](https://github.com/maxbolgarin/abstract) — data structures that cut boilerplate out of business code
+- [**lang**](https://github.com/maxbolgarin/lang) — generic one-liners for variables, slices and maps
+- [**cliex**](https://github.com/maxbolgarin/cliex) — minimalist HTTP client with a circuit breaker (built on resty)
+- [**gorder**](https://github.com/maxbolgarin/gorder) — in-memory task queue with strict ordering for async work
+- [**datetime**](https://github.com/maxbolgarin/datetime) — a `Date` without time and a `Time` without date
+
+## 🧬 Product
+
+### [BioMaxing](https://biomaxing.io) — biohacking, quantified
+
+Tools to track your body, run experiments on yourself, and manage your supplement
+stack — for people who treat their own physiology as a system worth measuring.
+My longest-running personal practice, turned into a product. *(Closed source.)*
