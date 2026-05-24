@@ -18,13 +18,6 @@
 
 ### ⭐ [unread](https://github.com/maxbolgarin/unread) — read your unread, without reading it
 
-<p>
-  <a href="https://pypi.org/project/unread/"><img src="https://img.shields.io/pypi/v/unread?color=3b82f6" alt="PyPI"></a>
-  <a href="https://github.com/maxbolgarin/unread/stargazers"><img src="https://img.shields.io/github/stars/maxbolgarin/unread?color=3b82f6" alt="Stars"></a>
-  <img src="https://img.shields.io/pypi/pyversions/unread?color=3b82f6" alt="Python">
-  <img src="https://img.shields.io/github/license/maxbolgarin/unread?color=3b82f6" alt="License">
-</p>
-
 Your Telegram channels YouTube 'watch later' pile up faster than you can check them. `unread` pulls it
 into a single digest you can actually act on — and unlike other summarizers, every
 line links back to the exact source it came from. Trust the summary,
